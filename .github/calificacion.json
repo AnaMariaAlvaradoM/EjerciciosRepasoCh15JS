@@ -1,0 +1,18 @@
+{
+  "curso": "🧺 Mercado Raíz · Repaso tipo entrevista",
+  "fechaLimite": "",
+  "patronTest": "^test\\(",
+  "protegidos": ["tests/", "scripts/", ".github/", "package.json"],
+  "ejercicios": [
+    { "id": "01", "titulo": "Strings · Código espejo", "test": "tests/01-codigo-espejo.test.js" },
+    { "id": "02", "titulo": "Objetos · Contar", "test": "tests/02-contar-categorias.test.js" },
+    { "id": "03", "titulo": "Arreglos · Sin repetir", "test": "tests/03-sin-repetir.test.js" },
+    { "id": "04", "titulo": "Anidados · Combo exacto", "test": "tests/04-combo-exacto.test.js" },
+    { "id": "05", "titulo": "Etiquetas de pedidos", "test": "tests/05-etiquetas-pedidos.test.js" },
+    { "id": "06", "titulo": "Módulos · Reporte", "test": "tests/06-reporte-catalogo.test.js" },
+    { "id": "07", "titulo": "Clases · Producto", "test": "tests/07-clase-producto.test.js" },
+    { "id": "08", "titulo": "Herencia · Oferta", "test": "tests/08-herencia-oferta.test.js" },
+    { "id": "09", "titulo": "APIs · fetch", "test": "tests/09-obtener-productos.test.js" },
+    { "id": "10", "titulo": "Integrador · Vitrina", "test": "tests/10-vitrina-api.test.js" }
+  ]
+}

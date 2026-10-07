@@ -1,0 +1,9 @@
+{
+  "name": "ejercicios-repaso-ch15",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Repaso tipo entrevista técnica calificable · Mercado Raíz · Generation Colombia Cohorte 15",
+  "scripts": {
+    "test": "node scripts/calificar.js"
+  }
+}
